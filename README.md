@@ -1,7 +1,7 @@
 # TennisKata
 
 Unable to commit files directly, due to some issue. 
-I have archived entire project files and committed as single TennisKata.zip file.
+I have archived entire project files and committed as a single TennisKata.zip file.
 Please download repository and unarchive TennisKata.zip file to see project files.
 
 What we need to run this application
