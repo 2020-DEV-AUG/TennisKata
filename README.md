@@ -13,4 +13,4 @@ How to run this in simulator
 	1.	Open TennisKata.xcodeproj file in Xcode
 	2.	Select "TennisKata" target and select any iPhone simulator
 	3.	Build and Run It should run in iPhone simulator.
-About application usage add another README.md file in the project
+About application usage added another README.md file in the project
